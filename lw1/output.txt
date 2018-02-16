@@ -1,0 +1,7 @@
+Triangle: P=13.539156; S=1.5
+Circle: P=31.415926; S=78.53982
+Rectangle: P=8.0; S=4.0
+Triangle: P=120000.0; S=6.0E8
+Circle: P=62831.85; S=3.14159264E8
+Rectangle: P=60000.0; S=2.0E8
+Triangle: P=848.52814; S=0.0

@@ -1,0 +1,7 @@
+triangle 0,0 -1,0 5,3
+circle 2,3 5
+rectangle 0,2 2,0
+triangle 40000,0 0,30000 0,0
+circle 2,3 10000
+rectangle 10000,20000 0,0
+triangle 0,0 150,150 300,300
