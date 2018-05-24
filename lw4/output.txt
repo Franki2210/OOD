@@ -1,0 +1,4 @@
+Triangle: P=120000; S=600000000
+Circle: P=60000; S=314159000
+Rectangle: P=60000; S=200000000
+Triangle: P=706; S=2500
