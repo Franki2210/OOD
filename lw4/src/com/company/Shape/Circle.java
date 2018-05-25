@@ -30,7 +30,7 @@ public class Circle implements IShape {
     }
 
     private BigNumber multiplicationByPi(BigNumber bigNumber) {
-        BigNumber temp = Operations.mul(bigNumber, new BigNumber(314159));
-        return Operations.div(temp, new BigNumber(100000));
+        BigNumber temp = Operations.mul(bigNumber, new BigNumber(31415926));
+        return Operations.div(temp, new BigNumber(10000000));
     }
 }
